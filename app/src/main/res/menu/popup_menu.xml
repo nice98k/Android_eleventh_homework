@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/first" android:title="信阳师范学院 [10477]" />
+    <item android:id="@+id/second" android:title="上海交通大学 [10002]" />
+    <item android:id="@+id/third" android:title="中山大学 [10010]" />
+    <item android:id="@+id/forth" android:title="浙江大学 [10003]" />
+</menu>
